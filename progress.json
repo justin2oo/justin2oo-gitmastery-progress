@@ -214,5 +214,14 @@
       "\"first-pilot\" should be a lightweight tag, not an annotated tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787208325.856575,
+    "completed_at": 1787208328.100886,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
