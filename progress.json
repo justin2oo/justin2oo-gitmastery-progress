@@ -151,5 +151,14 @@
       "C:\\Users\\justi\\y2s1\\CS2103T SWE\\gitmastery-home\\gitmastery-exercises\\clone-repo\\shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787206020.944839,
+    "completed_at": 1787206026.970066,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
