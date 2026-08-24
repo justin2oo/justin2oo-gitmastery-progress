@@ -435,5 +435,14 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787555986.491426,
+    "completed_at": 1787555988.810526,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
